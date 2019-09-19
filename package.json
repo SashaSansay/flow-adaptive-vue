@@ -1,0 +1,30 @@
+{
+  "name": "flow-adaptive-vue",
+  "version": "1.0.0",
+  "description": "Adaptive units for vue apps",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SashaSansay/flow-adaptive-vue.git"
+  },
+  "keywords": [
+    "vue",
+    "js",
+    "rem"
+  ],
+  "author": "SashaSansay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SashaSansay/flow-adaptive-vue/issues"
+  },
+  "homepage": "https://github.com/SashaSansay/flow-adaptive-vue#readme",
+  "dependencies": {
+    "flow-adaptive": "^1.1.4"
+  },
+  "devDependencies": {
+    "bili": "^4.8.1"
+  }
+}
